@@ -10,6 +10,7 @@ word("codeHive")
 }
 
 fun word(name:String){
+    var name ="codeHive"
     var newName=(name[4].toString() +name[5]+name[6]+name[7])
     println(newName)
 
